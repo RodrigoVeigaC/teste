@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="com.rodrigoveiga.bosta"
+        id="com.rodrigoveiga.bostamgjmgm"
         version="1.0.3">
 
     <name>
@@ -15,8 +15,6 @@
     <author email="rodrigoveiga.2001@gmail.com">
         Rodrigo Veiga Costa
     </author>
-
-    <icon src="icon.png" />
 
     <preference name="orientation" value="landscape" />
     <preference name="fullscreen" value="true" />
